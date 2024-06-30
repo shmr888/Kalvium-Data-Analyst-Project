@@ -12,61 +12,61 @@ The dataset was processed to convert string representations of numerical values 
 
 The constituencies with the highest margins of victory were identified:
 
-![Party_Performance_Overview_(Mean, Median, Sum)](<.\Screenshots\1.TopConstituenciesbyMarginofVictory.png>)
+![Party_Performance_Overview_(Mean, Median, Sum)](<./Screenshots/1.TopConstituenciesbyMarginofVictory.png>)
 
 ### 4. Distribution of Wins by Party
 
 A pie chart was created to visualize the distribution of wins by party:
 
-![Distribution of Wins by Party](<.\Screenshots\2.Distributionofwinsbyparty.png>)
+![Distribution of Wins by Party](<./Screenshots/2.Distributionofwinsbyparty.png>)
 
 ### 5. State-Wise Winning Analysis
 
 A heatmap was generated to analyze the winning distribution of parties across different states:
 
-![State-Wise Winning Analysis](<.\Screenshots\3.State-wise-winning-analysis.png>)
+![State-Wise Winning Analysis](<./Screenshots/3.State-wise-winning-analysis.png>)
 
 ### 6. Winning Margins by Party
 
 A dot plot was used to display the distribution of winning margins for each party:
 
-![Winning Margins by Party](<.\Screenshots\4.DotPlotofWinningMarginsbyparty.png>)
+![Winning Margins by Party](<./Screenshots/4.DotPlotofWinningMarginsbyparty.png>)
 
 ### 7. Distribution of Wins by Party
 
 A count plot showing the number of wins for each party:
 
-![Distribution of Wins by Party](<.\Screenshots\5.Distributionofwinsbyparty.png>)
+![Distribution of Wins by Party](<./Screenshots/5.Distributionofwinsbyparty.png>)
 
 ### 8. Top Candidates by Votes Received
 
 The candidates who received the highest total votes were highlighted:
 
-![Top Canditates by votes Received](<.\Screenshots\6.TopCandidatesbyvotesreceived .png>)
+![Top Canditates by votes Received](<./Screenshots/6.TopCandidatesbyvotesreceived .png>)
 
 ### 9. Correlation between Total Votes and Margin
 
 A scatter plot showing the relationship between total votes received and the margin of victory:
 
-![Correlation between Total Votes and Margin](<.\Screenshots\7.CorrelationbetweenTotalVotesandMargin.png>)
+![Correlation between Total Votes and Margin](<./Screenshots/7.CorrelationbetweenTotalVotesandMargin.png>)
 
 ### 10. Vote Distribution in Andhra Pradesh
 
 A pie chart depicting the vote distribution among different parties in Andhra Pradesh:
 
-![Vote Distribution in Andhra Pradesh](<.\Screenshots\8.VoteDistributioninAP.png>)
+![Vote Distribution in Andhra Pradesh](<./Screenshots/8.VoteDistributioninAP.png>)
 
 ### 11. Party Performance Overview
 
 A summary of party performance including mean, median, and total values for votes and margins:
 
-![Party Performance overview ](<.\Screenshots\9.Partyperfomanceoverview.png>)
+![Party Performance overview ](<./Screenshots/9.Partyperfomanceoverview.png>)
 
 ### 12. Election Trends by State
 
 A bar chart showing the number of wins per state:
 
-![Election Trends by State](<.\Screenshots\10.ElectionTrendsbystate.png>)
+![Election Trends by State](<./Screenshots/10.ElectionTrendsbystate.png>)
 
 Project Done by
 ### Mohamed Shameer
